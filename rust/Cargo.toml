@@ -1,0 +1,5 @@
+[workspace]
+members = ["fibonacci", "collatz", "name", "alphabet"]
+
+[workspace.package]
+version = "0.1.0"
